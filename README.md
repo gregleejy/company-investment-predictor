@@ -80,6 +80,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any questions or feedback, please contact:
 - **Name**: Greg Lee
-- **Email**: gregleejiayoul@hotmail.com
+- **Email**: gregleejiayou@hotmail.com
 - **GitHub**: [gregleejy](https://github.com/gregleejy)
 ```
